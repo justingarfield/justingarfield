@@ -5,9 +5,4 @@
 
 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=justingarfield&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
-<!---
-justingarfield/justingarfield is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://wakatime.com/share/@justingarfield/49994bf8-13fd-44b4-a44e-28b679dbcbda.svg" width="700px" />
