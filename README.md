@@ -4,4 +4,4 @@
 
 📊 &nbsp;**This week I spent my time on**
 
-<img src="https://wakatime.com/share/@justingarfield/49994bf8-13fd-44b4-a44e-28b679dbcbda.svg" width="700px" />
+<img src="https://wakatime.com/share/@justingarfield/ead4def8-e354-4b0d-ae22-a3a50d873101.svg" width="700px" />
